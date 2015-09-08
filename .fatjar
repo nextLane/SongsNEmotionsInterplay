@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Nov 25 23:44:14 PST 2010
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=01.jar
+manifest.mergeall=true
+manifest.mainclass=synesketch.app.Synesketch01
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=<po|Synesketch>~test/
+includes=

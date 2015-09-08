@@ -1,0 +1,2 @@
+serviceClass: songsays.client.AnalyzeService
+path: D1B1621ED6ADC21DA2B0C11C72FA84B4.gwt.rpc

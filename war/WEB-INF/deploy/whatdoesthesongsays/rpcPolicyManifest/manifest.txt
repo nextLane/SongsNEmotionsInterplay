@@ -1,0 +1,3 @@
+# Module whatdoesthesongsays
+# RPC service class, partial path of RPC policy file
+songsays.client.AnalyzeService, D1B1621ED6ADC21DA2B0C11C72FA84B4.gwt.rpc
